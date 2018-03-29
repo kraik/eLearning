@@ -1,4 +1,5 @@
-Welcome to the eLearning wiki!
+These are pending areas to broaden my education...
+
 ## Scripting
 * BASH
 * PYTHON
